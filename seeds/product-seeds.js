@@ -2,34 +2,34 @@ const { Product } = require('../models');
 
 const productData = [
   {
-    product_name: 'Plain T-Shirt',
-    price: 14.99,
-    stock: 14,
+    product_name: 'Mega-purifying',
+    price: 25.99,
+    stock: 10,
     category_id: 1,
   },
   {
-    product_name: 'Running Sneakers',
-    price: 90.0,
-    stock: 25,
-    category_id: 5,
+    product_name: 'Gentle Face Wash',
+    price: 30.99,
+    stock: 15,
+    category_id: 2,
   },
   {
-    product_name: 'Branded Baseball Hat',
-    price: 22.99,
+    product_name: 'Living Cell Clairfier',
+    price: 33.99,
     stock: 12,
-    category_id: 4,
-  },
-  {
-    product_name: 'Top 40 Music Compilation Vinyl Record',
-    price: 12.99,
-    stock: 50,
     category_id: 3,
   },
   {
-    product_name: 'Cargo Shorts',
+    product_name: 'Ultra Hydro Gel',
+    price: 42.99,
+    stock: 14,
+    category_id: 4,
+  },
+  {
+    product_name: 'SPF 15',
     price: 29.99,
-    stock: 22,
-    category_id: 2,
+    stock: 15,
+    category_id: 5,
   },
 ];
 
